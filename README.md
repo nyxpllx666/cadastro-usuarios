@@ -23,20 +23,6 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ---
 
-## 📂 Estrutura do Projeto
-sistema_cadastro/
-│
-├── app.py # Arquivo principal da aplicação Flask
-├── database.py # Conexão e operações no banco de dados
-├── static/
-│ └── style.css # Estilos da aplicação
-├── templates/
-│ ├── index.html # Página de listagem de usuários
-│ └── cadastro.html # Página de cadastro de usuários
-└── README.md # Documentação do projeto
-
----
-
 ## ⚙️ Como Executar o Projeto
 
 1. **Clone o repositório**
